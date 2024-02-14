@@ -1,7 +1,10 @@
 ## Hello World 👋
 I'm Luca, a (java|type)script developer 💻
 
+# Location
 📍 Brescia, Italy (But you could find me working remotely from all over the world 🌍)
+
+# Working
 💼 WeRoad (Milan HQ)
 
 ## Technologies & Tools:
