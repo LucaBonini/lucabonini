@@ -1,13 +1,17 @@
-# Hello World 👋
-I'm Luca, a (java|type)script developer 💻
+# 👋 Hello World
+I'm Luca, a (java|type)script developer 🧑‍💻
 
-## Location
-📍 Brescia, Italy (But you could find me working remotely from all over the world 🌍)
+## 📍 Location
+Brescia, Italy 🇮🇹 (But you could find me working remotely from all over the world 🌍)
 
-## Working
-💼 WeRoad (Milan HQ)
+## 💼 Working
+🐒 [WeRoad](https://monkeys.weroad.io/) Monkeys Team (Milan HQ)
 
-## Technologies & Tools:
+## ® About me
+Born in Brescia, graduated in IT in Bologna University (Italy), I started my career as Developer in Amsterdam 🇳🇱 (2017).
+After almost 4 years and a pandemic I decided to come back home (2021). 
+
+## 💻 Technologies:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
@@ -21,6 +25,12 @@ I'm Luca, a (java|type)script developer 💻
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+
+## 👥 Socials & Contact:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-bonini-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucab0nini/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1184849236?si=rpK6_Ko9R-GSK94tP8ICTw)
 
 
 
