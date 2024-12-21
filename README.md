@@ -4,12 +4,12 @@ I'm Luca, a (java|type)script developer 🧑‍💻
 ## 📍 Location
 Brescia, Italy 🇮🇹 (But you could find me working remotely from all over the world 🌍)
 
-## 💼 Working
-🐒 [WeRoad](https://monkeys.weroad.io/) Monkeys Team (Milan HQ)
-
 ## ® About me
 Born in Brescia, graduated in IT in Bologna University (Italy), I started my career as Developer in Amsterdam 🇳🇱 (2017).
 After almost 4 years and a pandemic I decided to come back home (2021). 
+
+## 💼 Working
+🐒 [WeRoad](https://monkeys.weroad.io/) Monkeys Team (Milan HQ)
 
 ## 💻 Technologies:
 
