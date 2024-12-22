@@ -9,7 +9,15 @@ Born in Brescia, graduated in IT in Bologna University (Italy), I started my car
 After almost 4 years and a pandemic I decided to come back home (2021). 
 
 ## 💼 Working
-🐒 [WeRoad](https://monkeys.weroad.io/) Monkeys Team (Milan HQ)
+
+| When          | Role                                                                            |
+|---------------|---------------------------------------------------------------------------------|
+| 2017 – 2018   | Full stack developer @ [PastBook](https://pastbook.com) in Amsterdam            |
+| 2018 – 2020   | Full stack Developer @ [Polette](https://polette.com) in Amsterdam              |
+| 2021          | Full stack Developer @ [Ennova Research](https://ennova-research.com/) in Milan |
+| 2021 - 2022   | Senior Back end Engineer @ [S4win](https://www.s4win.com) in Brescia            |
+| 2022 – now    | Senior Backend Developer @ [WeRoad](https://weroad.com/)🐒 Full Remote 🌍        |
+
 
 ## 💻 Technologies:
 
