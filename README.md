@@ -16,7 +16,7 @@ After almost 4 years and a pandemic I decided to come back home (2021).
 | 2018 – 2020   | Full stack Developer @ [Polette](https://polette.com) in Amsterdam              |
 | 2021          | Full stack Developer @ [Ennova Research](https://ennova-research.com/) in Milan |
 | 2021 - 2022   | Senior Back end Engineer @ [S4win](https://www.s4win.com) in Brescia            |
-| 2022 – now    | Senior Backend Developer @ [WeRoad](https://weroad.com/)🐒 Full Remote 🌍        |
+| 2022 – now    | Senior Back end Engineer @ [WeRoad](https://weroad.com/)🐒 Full Remote 🌍        |
 
 
 ## 💻 Technologies:
